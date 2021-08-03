@@ -1,0 +1,23 @@
+#Wymiary planszy
+6 6
+#Numer tury
+6
+#Parametry organizmow (gatunek, polozenie(x), polozenie(y), sila, wiek), dla czlowieka dodatkowo (czyAktywnaTarczaAlzura, czasTrwaniaUmiejetnosciSpecjalnej)
+Lis 0 4 9 6
+Lis 1 3 6 6
+Wilk 3 2 12 6
+Wilk 5 4 9 6
+Wilk 5 5 9 3
+Zolw 2 0 2 6
+Zolw 0 0 2 6
+Trawa 1 1 0 6
+Barszcz Sosnowskiego 4 0 10 6
+Mlecz 0 5 0 6
+Guarana 4 1 0 6
+Barszcz Sosnowskiego 5 0 10 6
+Guarana 3 1 0 5
+Trawa 2 1 0 2
+Mlecz 1 5 0 1
+Trawa 2 2 0 1
+Wilk 4 4 9 0
+Wilk 4 5 9 0
